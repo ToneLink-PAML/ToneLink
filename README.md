@@ -14,15 +14,6 @@ An AI-powered tool that helps brands identify influencers whose content genuinel
 -   [Our Solution](#-our-solution)
 -   [✨ Key Features](#-key-features)
 -   [⚙️ How It Works](#️-how-it-works)
--   [🚀 Getting Started](#-getting-started)
-    -   [Prerequisites](#prerequisites)
-    -   [Installation](#installation)
--   [Usage](#-usage)
-    -   [Analyzing an Influencer](#analyzing-an-influencer)
-    -   [Matching a Brand Profile](#matching-a-brand-profile)
--   [🔧 Configuration](#-configuration)
--   [🧪 Running Tests](#-running-tests)
--   [🤝 Contributing](#-contributing)
 -   [📜 License](#-license)
 
 ## ❓ The Problem
